@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm XU RUIYANG(쉬루이양) 👋
+
+## About Me
+- Student
+- Interested in programming and AI
+- Learning GitHub and Python
+
+## Skills
+- Python
+- GitHub
+
+## Hobbies
+- Gaming
+- Music
+- sports
+
+## Contact
+- Email: x98480107@gmail.com
