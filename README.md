@@ -14,21 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm XU RUIYANG(쉬루이양) 👋
+# Hello 👋 I'm XU RUIYANG(쉬루이양)
 
-## About Me
-- Student
-- Interested in programming and AI
-- Learning GitHub and Python
+## 👨‍💻 About Me
 
-## Skills
+🎓 I am a university student passionate about technology and programming.
+
+🌱 Currently learning:
 - Python
+- Web Development
 - GitHub
 
-## Hobbies
-- Gaming
-- Music
-- sports
+💡 Interests:
+- Sports
+- Play computer games
+- AI & Machine Learning
 
-## Contact
+🎯 Goal:
+Become a skilled developer and build useful applications.
+
+📫 Contact:
 - Email: x98480107@gmail.com
